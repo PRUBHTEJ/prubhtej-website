@@ -1,2 +1,2 @@
 # prubhtej-website
-Contains the source code (Made using HUGO)
+This repository contains the source code for my website, i.e prubhtej.github.io
